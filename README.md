@@ -13,14 +13,14 @@ Write a program to allow a user to enter a paragraph and do the following operat
 #
 Team Member :
 #
-- ghorod Moustafa 
+- Ghorod Moustafa 
 #
-- rana naser
+- Rana Naser
 #
-- abanob 
+-  Abanob Wagdi 
 #
-- Ahmed alaa
+- Ahmed Alaa-Elden
 # 
-- marwa hamdy 
+- Marwa Hamdy 
 #
-- aala diaa
+- Aala Diaa
